@@ -6,6 +6,8 @@ public class miPrimerGit {
 		
 		System.out.println("Mi primer git Hector");
 		
+		System.out.println("Mi primer git Hugo");
+		
 		
 		
 
