@@ -11,7 +11,7 @@ public class miPrimerGit {
 		
 		System.out.println("Segundo cambio de HECTOR ");
 		
-		System.out.println("Generar conflicto Hector");
+		System.out.println("Generar Conflicto Hugo");
 
 	}
 
