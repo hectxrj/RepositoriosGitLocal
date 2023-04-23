@@ -14,8 +14,9 @@ public class miPrimerGit {
 		System.out.println("Generar Conflicto Hugo");
 		
 		
-		System.out.println("Generar conflicto Hector");
 
+		
+		
 	}
 
 }
