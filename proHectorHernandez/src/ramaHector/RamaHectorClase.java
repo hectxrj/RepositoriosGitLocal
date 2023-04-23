@@ -6,6 +6,8 @@ public class RamaHectorClase {
 		System.out.println("Mi primera clase Hector");
 		
 		System.out.println("edicion de la Rama by Hector");
+		
+		System.out.println("Edicion en la rama Hugo");
 	}
 
 }
